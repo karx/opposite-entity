@@ -1,7 +1,8 @@
 # Opposte Entity using Wikidata
 
 API uses barebones Node.js app using [Express 4](http://expressjs.com/).
-![Wikidata](https://commons.wikimedia.org/wiki/File:Wikidata-logo-en.svg)
+
+![Wikidata](https://upload.wikimedia.org/wikipedia/commons/6/66/Wikidata-logo-en.svg)
 
 ## Running Locally
 
